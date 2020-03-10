@@ -1,0 +1,17 @@
+id,claimno,claim_type,hic,patient_name,cost
+1,1001,IP,123456789A,Fake patient 1,"$9,357.77 "
+2,1002,IP,123456789B,Fake patient 2,"$1,504.57 "
+3,1003,IP,123456789A,Fake patient 3,"$8,513.27 "
+4,1004,IP,123456789B,Fake patient 4,"$7,561.73 "
+5,1005,IP,123456789A,Fake patient 5,"$6,791.89 "
+6,1006,IP,123456789B,Fake patient 6,"$3,347.94 "
+7,1007,IP,123456789A,Fake patient 7,"$3,851.15 "
+8,1008,IP,123456789B,Fake patient 8,"$5,225.39 "
+9,1009,IP,123456789A,Fake patient 9,"$6,598.38 "
+10,1010,IP,123456789B,Fake patient 10,"$4,288.93 "
+11,1011,IP,123456789A,Fake patient 11,"$3,550.34 "
+12,1012,IP,123456789B,Fake patient 12,"$9,517.25 "
+13,1013,IP,123456789A,Fake patient 13,"$3,103.68 "
+14,1014,IP,123456789B,Fake patient 14,"$2,759.66 "
+15,1015,IP,123456789A,Fake patient 15,$494.27 
+16,1016,IP,123456789B,Fake patient 16,"$4,529.03 "
